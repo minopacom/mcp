@@ -6,8 +6,8 @@ This repository holds the connection details for the hosted Minopa MCP server an
 
 - **Endpoint:** `https://mcp.minopa.com/mcp` (Streamable HTTP)
 - **Sign-in:** OAuth 2.1 with dynamic client registration and PKCE. You sign in with your Minopa account and pick one workspace; the assistant only sees that workspace.
-- **Account:** a Minopa account ([free plan](https://minopa.com/en/pricing), no card) with at least one social account connected in the Minopa app.
-- **Docs:** [minopa.com/en/mcp](https://minopa.com/en/mcp)
+- **Account:** a Minopa account ([sign up free](https://minopa.com/en/signup?utm_source=mcp-github&utm_medium=readme), no card; see [pricing](https://minopa.com/en/pricing?utm_source=mcp-github&utm_medium=readme)) with at least one social account connected in the Minopa app.
+- **Docs:** [minopa.com/en/mcp](https://minopa.com/en/mcp?utm_source=mcp-github&utm_medium=readme)
 
 ## Connect
 
@@ -34,7 +34,7 @@ Then run `/mcp`, select **minopa** and choose **Authenticate**.
 
 ### Cursor
 
-Use the **Add to Cursor** button on [minopa.com/en/mcp](https://minopa.com/en/mcp#setup), or add this to `~/.cursor/mcp.json`:
+Use the **Add to Cursor** button on [minopa.com/en/mcp](https://minopa.com/en/mcp?utm_source=mcp-github&utm_medium=readme#setup), or add this to `~/.cursor/mcp.json`:
 
 ```json
 {
@@ -46,7 +46,7 @@ Use the **Add to Cursor** button on [minopa.com/en/mcp](https://minopa.com/en/mc
 
 ### VS Code
 
-Use the **Install in VS Code** button on [minopa.com/en/mcp](https://minopa.com/en/mcp#setup), or add this to `.vscode/mcp.json`:
+Use the **Install in VS Code** button on [minopa.com/en/mcp](https://minopa.com/en/mcp?utm_source=mcp-github&utm_medium=readme#setup), or add this to `.vscode/mcp.json`:
 
 ```json
 {
