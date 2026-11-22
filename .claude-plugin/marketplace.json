@@ -1,0 +1,17 @@
+{
+  "name": "minopa",
+  "owner": {
+    "name": "Minopa",
+    "email": "info@minopa.com"
+  },
+  "metadata": {
+    "description": "The Minopa plugin for Claude Code: post to social media from Claude."
+  },
+  "plugins": [
+    {
+      "name": "minopa",
+      "source": "./",
+      "description": "Draft, schedule and publish social media posts to Instagram, TikTok, LinkedIn, X, YouTube and more from Claude."
+    }
+  ]
+}

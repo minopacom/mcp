@@ -1,0 +1,24 @@
+{
+  "name": "minopa",
+  "displayName": "Minopa",
+  "version": "1.0.0",
+  "description": "Draft, schedule and publish social media posts to Instagram, TikTok, LinkedIn, X, YouTube and more from Claude, and see how they performed.",
+  "author": {
+    "name": "Minopa",
+    "email": "info@minopa.com",
+    "url": "https://minopa.com"
+  },
+  "homepage": "https://minopa.com/en/mcp",
+  "repository": "https://github.com/minopacom/mcp",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://minopa.com/en/privacy",
+  "keywords": [
+    "social-media",
+    "scheduling",
+    "instagram",
+    "linkedin",
+    "tiktok",
+    "marketing",
+    "mcp"
+  ]
+}

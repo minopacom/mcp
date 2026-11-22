@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "minopa": {
+      "type": "http",
+      "url": "https://mcp.minopa.com/mcp"
+    }
+  }
+}

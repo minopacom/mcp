@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.minopa/mcp",
+  "title": "Minopa",
+  "description": "Draft, schedule and publish social media posts to Instagram, TikTok, LinkedIn, X and more.",
+  "version": "1.0.0",
+  "websiteUrl": "https://minopa.com/en/mcp",
+  "repository": {
+    "url": "https://github.com/minopacom/mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://minopa.com/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": ["180x180"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.minopa.com/mcp"
+    }
+  ]
+}
