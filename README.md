@@ -1,5 +1,7 @@
 # Minopa MCP server
 
+[![Minopa MCP connector](https://glama.ai/mcp/connectors/com.minopa/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.minopa/mcp)
+
 Draft, schedule and publish social media posts from Claude, ChatGPT, Cursor, VS Code or any MCP client. Minopa connects to Instagram, TikTok, Threads, Facebook Pages, X, LinkedIn, Pinterest and YouTube, so you can ask your assistant to write a post, schedule it for next week, check why a post was rejected, or see which posts did best.
 
 This repository holds the connection details for the hosted Minopa MCP server and a Claude plugin with a skill that teaches Claude the posting flow. The server itself runs at Minopa; there is nothing to install or run locally.
